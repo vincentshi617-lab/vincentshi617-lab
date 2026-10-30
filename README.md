@@ -32,12 +32,6 @@ An **Interdisciplinary Machine Learning Research Engineer** bridging the gap bet
 
 ---
 
-## 📊 GitHub Stats
-![Vincent's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
-
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Link]
+- **LinkedIn:** [www.linkedin.com/in/vincent-shi-8504a6228]
 - **Email:** vincentshi617@gmail.com
